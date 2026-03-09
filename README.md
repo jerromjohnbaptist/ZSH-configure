@@ -4,7 +4,7 @@ Here is a personnal zsh terminal, very simple but nice. Used with Windows Termin
 
 Follow
 ```console
-git clone https://github.com/vlaine5/myzsh.git
+git clone https://github.com/jerromjohnbaptist/ZSH-configure
 cd myzsh
 chmod +x zsh.sh
 chmod +x install.sh
@@ -13,7 +13,7 @@ chmod +x install.sh
 
 # Prompt
 ```console
-vagrant@worker-1:~$ git clone https://github.com/vlaine5/myzsh.git
+vagrant@worker-1:~$ git clone https://github.com/jerromjohnbaptist/ZSH-configure
 Cloning into 'myzsh'...
 remote: Enumerating objects: 1660, done.
 remote: Counting objects: 100% (1660/1660), done.
@@ -104,4 +104,4 @@ Copy OhMyZsh worked
 
 ```
 
-![alt text](https://github.com/vlaine5/myzsh/blob/main/images/screen.png?raw=true)
+![alt text](https://github.com/jerromjohnbaptist/ZSH-configure/blob/main/images/screen.png?raw=true)
