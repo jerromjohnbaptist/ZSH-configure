@@ -5,7 +5,7 @@ Here is a personnal zsh terminal, very simple but nice. Used with Windows Termin
 Follow
 ```console
 git clone https://github.com/jerromjohnbaptist/ZSH-configure
-cd myzsh
+cd ZSH-configure
 chmod +x zsh.sh
 chmod +x install.sh
 ./zsh.sh
