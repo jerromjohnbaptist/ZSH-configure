@@ -1,6 +1,6 @@
 
 # My zsh
-Here is a personnal zsh terminal, very simple but nice. Used with Windows Terminal on WSL2 and Virtual Machines.
+Here is a personnal zsh terminal. Used with Windows Terminal on WSL2 and Virtual Machines.
 
 Follow
 ```console
