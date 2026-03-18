@@ -101,7 +101,7 @@ End of git clone
 '.zshrc' -> '/home/vagrant/.zshrc'
 Copy OhMyZsh worked
 [powerlevel10k] fetching gitstatusd .. [ok]
-
+OK
 ```
 
 ![alt text](https://github.com/jerromjohnbaptist/ZSH-configure/blob/main/images/screen.png?raw=true)
